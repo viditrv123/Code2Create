@@ -22,29 +22,8 @@ var mongoose = require('mongoose');
         type:Number,
         default: 0
     },
-    userinfo:{
-        first_name:{
-            type:String
-        },
-        last_name:{
-            type:String
-        },
-        country:{
-            type:String
-        },
-        city:{
-            type:String
-        },
-        address:{
-            type:String
-        },
-        telephone:{
-            type:Number
-        },
-        mobile:{
-            type:Number
-        }
-    }
+   
+    
   },{
       timestamps:true
   });
