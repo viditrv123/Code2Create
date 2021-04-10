@@ -1,0 +1,11 @@
+.container{
+  background-image: linear-gradient(rgb(88, 15, 88,0.3) 30%, rgb(2, 2, 2,0.3) 30%,purple);
+  padding: 30px;
+}
+
+
+.card{
+  margin-bottom: 10px;
+  margin-top:10px;
+  margin-left:20px;
+}
